@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8gW51WfHq6sqssDkzrR0jaoPS7LkH8wEbQMrpg0qUig=",
+  "Source": "sqliteinwebapi",
+  "BasePath": "_content/sqliteinwebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
